@@ -1,0 +1,15 @@
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\bin\Debug\net6.0\lections_C#_Number1.exe
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\bin\Debug\net6.0\lections_C#_Number1.deps.json
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\bin\Debug\net6.0\lections_C#_Number1.runtimeconfig.json
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\bin\Debug\net6.0\lections_C#_Number1.dll
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\bin\Debug\net6.0\lections_C#_Number1.pdb
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.csproj.AssemblyReference.cache
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.AssemblyInfoInputs.cache
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.AssemblyInfo.cs
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.csproj.CoreCompileInputs.cache
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.dll
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\refint\lections_C#_Number1.dll
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.pdb
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\lections_C#_Number1.genruntimeconfig.cache
+C:\Users\shkat\Desktop\программирование\C#\lections_C#_Number1\obj\Debug\net6.0\ref\lections_C#_Number1.dll
